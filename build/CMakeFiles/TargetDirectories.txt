@@ -1,0 +1,3 @@
+C:/Users/HP WORLD/dev/winUI/build/CMakeFiles/winUI.dir
+C:/Users/HP WORLD/dev/winUI/build/CMakeFiles/edit_cache.dir
+C:/Users/HP WORLD/dev/winUI/build/CMakeFiles/rebuild_cache.dir

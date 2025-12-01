@@ -1,0 +1,5 @@
+{
+  "directory": "C:/Users/HP WORLD/dev/winUI/build",
+  "command": "C:/PrgramData/mingw64/mingw64/bin/g++.exe -IC:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include ... -DUNICODE -c ./main.cpp",
+  "file": "./main.cpp"
+}

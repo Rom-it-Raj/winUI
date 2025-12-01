@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/HP WORLD/dev/winUI/build",
-  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE  -std=gnu++17 -o CMakeFiles\\winUI.dir\\main.cpp.obj -c \"C:\\Users\\HP WORLD\\dev\\winUI\\main.cpp\"",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\g++.exe -I C:\\ProgramData\\mingw64\\mingw64\\x86_64-w64-mingw32\\include -DUNICODE -D_UNICODE  -std=gnu++17 -o CMakeFiles\\winUI.dir\\main.cpp.obj -c \"C:\\Users\\HP WORLD\\dev\\winUI\\main.cpp\"",
   "file": "C:/Users/HP WORLD/dev/winUI/main.cpp",
   "output": "CMakeFiles/winUI.dir/main.cpp.obj"
 }

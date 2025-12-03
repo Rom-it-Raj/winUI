@@ -217,7 +217,6 @@ CMakeFiles/winUI.dir/main.cpp.obj: C:\Users\HP\ WORLD\dev\winUI\main.cpp \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/joystickapi.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/nb30.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/rpc.h \
- C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/windows.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/rpcdce.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/rpcdcep.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/rpcnsi.h \
@@ -271,4 +270,12 @@ CMakeFiles/winUI.dir/main.cpp.obj: C:\Users\HP\ WORLD\dev\winUI\main.cpp \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/stralign_s.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/winsvc.h \
  C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/mcx.h \
- C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/imm.h
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/imm.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/tchar.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/wchar.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/tchar_s.h
